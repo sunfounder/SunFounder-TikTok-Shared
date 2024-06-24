@@ -2,7 +2,7 @@
 
 This project creates a simple radar system using an Arduino Uno, a servo motor, and an ultrasonic sensor (HC-SR04). The radar scans the environment, measures distances, and visualizes the data in real-time using the Processing IDE.
 
-[![Arduino Radar - Sunfounder Tiktok](Pic\arduino-radar-video-cover.jpg)](https://www.tiktok.com/@sunfounder_official/video/7383888781604162846 "Arduino Radar - Sunfounder Tiktok")
+[![Arduino Radar - Sunfounder Tiktok](Pic/arduino-radar-video-cover.jpg)](https://www.tiktok.com/@sunfounder_official/video/7383888781604162846 "Arduino Radar - Sunfounder Tiktok")
 
 ## Components
 
@@ -23,11 +23,13 @@ Refer to the image below for the circuit setup:
 1. Build the circuit.
 2. Upload `ArduinoRadar.ino` to the Arduino board.
 3. In the Arduino IDE, check the current Arduino port.
+   
    ![Circuit Diagram](Pic/arduino-port.png)
-4. Open `ArduinoRadarGUI.pde` in the [Processing IDE](https://processing.org/).
-5. **Modify the code in line 35 to ensure the correct port number**.
+5. Open `ArduinoRadarGUI.pde` in the [Processing IDE](https://processing.org/).
+6. **Modify the code in line 35 to ensure the correct port number**.
+   
    ![Circuit Diagram](Pic/modify-code.png)
-6. Run the Processing sketch to visualize the radar data.
+8. Run the Processing sketch to visualize the radar data.
 
 ## Arduino Code
 
