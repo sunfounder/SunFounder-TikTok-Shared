@@ -10,12 +10,12 @@
 | Component Introduction         | Purchase Link  |
 |--------------------------------|----------------|
 | [Arduino Uno R4(or R3)](https://docs.sunfounder.com/projects/elite-explorer-kit/en/latest/components/component_uno.html#uno-r4-wifi)       | -              |
-| [Ultrasonic Module](https://docs.sunfounder.com/projects/elite-explorer-kit/en/latest/components/component_ultrasonic_sensor.html#cpn-ultrasonic)         | [BUY](https://www.sunfounder.com/products/5pcs-hc-sr04-ultrasonic-module-distance-sensor)       |
-| [Passive Buzzer](https://docs.sunfounder.com/projects/elite-explorer-kit/en/latest/components/component_buzzer.html#cpn-buzzer)                     | [BUY](https://www.sunfounder.com/products/20pcs-3-5v-2-terminals-passive-buzzer)       |
-| [Resistor](https://docs.sunfounder.com/projects/elite-explorer-kit/en/latest/components/component_resistor.html#cpn-resistor)                     | [BUY](https://www.sunfounder.com/products/1-4w-resistor-assortment-kit-40-values-400pcs)       |
-| [Transistor](https://docs.sunfounder.com/projects/elite-explorer-kit/en/latest/components/component_transistor.html#cpn-transistor)                     | [BUY](https://www.sunfounder.com/products/10-values-200pcs-power-supply-general-transistor-npn-pnp-assortment-kit-bc337-bc327-2n2222-2n2907-2n3904-2n3906-s8050-s8550-a1015-c1815-set)       |
-| [Breadboard](https://docs.sunfounder.com/projects/elite-explorer-kit/en/latest/components/component_buzzer.html#buzzer)                | [BUY](https://www.sunfounder.com/products/20pcs-3-5v-2-terminals-passive-buzzer)       |
-| [Jumper Wires](https://docs.sunfounder.com/projects/elite-explorer-kit/en/latest/components/component_wires.html#cpn-wires)              | [BUY](https://www.sunfounder.com/products/560pcs-jumper-wire-kit-with-14-lengths)       |
+| [Ultrasonic Module](https://docs.sunfounder.com/projects/elite-explorer-kit/en/latest/components/component_ultrasonic_sensor.html#cpn-ultrasonic)         | [BUY](https://www.sunfounder.com/products/5pcs-hc-sr04-ultrasonic-module-distance-sensor?ref=tiktok1&utm_source=github)       |
+| [Passive Buzzer](https://docs.sunfounder.com/projects/elite-explorer-kit/en/latest/components/component_buzzer.html#cpn-buzzer)                     | [BUY](https://www.sunfounder.com/products/20pcs-3-5v-2-terminals-passive-buzzer?ref=tiktok1&utm_source=github)       |
+| [Resistor](https://docs.sunfounder.com/projects/elite-explorer-kit/en/latest/components/component_resistor.html#cpn-resistor)                     | [BUY](https://www.sunfounder.com/products/1-4w-resistor-assortment-kit-40-values-400pcs?ref=tiktok1&utm_source=github)       |
+| [Transistor](https://docs.sunfounder.com/projects/elite-explorer-kit/en/latest/components/component_transistor.html#cpn-transistor)                     | [BUY](https://www.sunfounder.com/products/10-values-200pcs-power-supply-general-transistor-npn-pnp-assortment-kit-bc337-bc327-2n2222-2n2907-2n3904-2n3906-s8050-s8550-a1015-c1815-set?ref=tiktok1&utm_source=github)       |
+| [Breadboard](https://docs.sunfounder.com/projects/elite-explorer-kit/en/latest/components/component_buzzer.html#buzzer)                | [BUY](https://www.sunfounder.com/products/20pcs-3-5v-2-terminals-passive-buzzer?ref=tiktok1&utm_source=github)       |
+| [Jumper Wires](https://docs.sunfounder.com/projects/elite-explorer-kit/en/latest/components/component_wires.html#cpn-wires)              | [BUY](https://www.sunfounder.com/products/560pcs-jumper-wire-kit-with-14-lengths?ref=tiktok1&utm_source=github)       |
 
 ## Circuit Diagram
 
