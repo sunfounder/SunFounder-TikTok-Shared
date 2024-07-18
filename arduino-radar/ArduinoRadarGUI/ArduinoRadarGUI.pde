@@ -7,7 +7,7 @@
  *  by Dejan Nedelkovski, 
  *  www.HowToMechatronics.com
  *  
- *  eidtd: Modify the code in line 35 to ensure the correct port number.
+ *  Note: Modify the code in line 35 to ensure the correct port number.
  */
 
 import processing.serial.*; // imports library for serial communication
