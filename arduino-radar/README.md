@@ -1,4 +1,4 @@
-# Arduino Radar Project
+# Arduino Radar(Actually Sonar) Project
 
 This project creates a simple radar system using an Arduino Uno, a servo motor, and an ultrasonic sensor (HC-SR04). The radar scans the environment, measures distances, and visualizes the data in real-time using the Processing IDE.
 
