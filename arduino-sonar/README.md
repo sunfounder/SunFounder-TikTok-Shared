@@ -2,7 +2,13 @@
 
 This project creates a simple sonar system using an Arduino Uno, a servo motor, and an ultrasonic sensor (HC-SR04). The sonar scans the environment, measures distances, and visualizes the data in real-time using the Processing IDE.
 
-[![Arduino Sonar - Sunfounder Tiktok](Pic/arduino-sonar-video-cover.jpg)](https://www.tiktok.com/@sunfounder_official/video/7383888781604162846 "Arduino Sonar - Sunfounder Tiktok") [![Arduino Sonar - Sunfounder Tiktok](Pic/arduino-sonar-video-cover2.jpg)](https://www.tiktok.com/@sunfounder_official/video/7393916564174605598 "Arduino Sonar - Sunfounder Tiktok")
+<a href="https://www.tiktok.com/@sunfounder_official/video/7383888781604162846" title="Arduino Sonar - Sunfounder Tiktok">
+    <img src="Pic/arduino-sonar-video-cover.jpg" width="300" alt="Arduino Sonar - Sunfounder Tiktok">
+</a>
+
+<a href="https://www.tiktok.com/@sunfounder_official/video/7393916564174605598" title="Arduino Sonar - Sunfounder Tiktok">
+    <img src="Pic/arduino-sonar-video-cover2.jpg" width="300" alt="Arduino Sonar - Sunfounder Tiktok">
+</a>
 
 ## Components
 
@@ -18,7 +24,7 @@ This project creates a simple sonar system using an Arduino Uno, a servo motor, 
 
 Refer to the image below for the circuit setup:
 
-![Circuit Diagram](ArduinoSonarCircuit.png)
+<img src="ArduinoSonarCircuit.png" width="700" alt="Circuit Diagram">
 
 ## Setup Instructions
 
