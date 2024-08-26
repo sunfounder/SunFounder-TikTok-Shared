@@ -2,7 +2,10 @@
 
 This project uses an Arduino Uno to control LEDs based on finger count data received from a computer. A Python script detects the number of fingers shown to a camera and sends this data to the Arduino, which lights up the corresponding number of LEDs.
 
-[![Arduino LED Control Using Finger Count - SunFounder Tiktok](Pic/HandGestureLEDControl.jpg)](https://www.tiktok.com/@sunfounder_official/video/7406884460253220126 "Arduino LED Control Using Finger Count - SunFounder Tiktok")
+<a href="https://www.tiktok.com/@sunfounder_official/video/7406884460253220126" title="Arduino LED Control Using Finger Count - SunFounder Tiktok">
+    <img src="Pic/HandGestureLEDControl.jpg" width="300" alt="Arduino LED Control Using Finger Count - SunFounder Tiktok">
+</a>
+
 
 ## Components
 
@@ -18,7 +21,7 @@ This project uses an Arduino Uno to control LEDs based on finger count data rece
 
 Refer to the diagram below to set up the circuit:
 
-![Circuit Diagram](HandGestureLEDControlCircuit.png)
+<img src="HandGestureLEDControlCircuit.png" width="500" alt="Circuit Diagram">
 
 ## Setup Instructions
 
