@@ -24,7 +24,7 @@ import time
 import math
 
 # Set up serial communication with the Arduino
-ser = serial.Serial('COM5', 115200, timeout=1)
+ser = serial.Serial('COM8', 115200, timeout=1)
 
 # Initialize MediaPipe Hands module
 mp_hands = mp.solutions.hands

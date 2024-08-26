@@ -34,14 +34,17 @@ In this project, Arduino and Python each play crucial roles:
 
 - **Python**: The Python script is responsible for image processing and gesture recognition. It uses the computer's camera to detect the number of fingers being shown. The Python script leverages OpenCV to analyze the image and determine the finger count. It then sends this data to the Arduino via serial communication, triggering the appropriate LED control.
 
-### Arduino
+### Arduino Setup
 
 1. Build the Circuit
 2. Open the `LedController.ino` file in the Arduino IDE.
-3. Connect your Arduino Uno to your computer via USB.
+3. Connect your Arduino Uno to your computer via USB. **Note the port number, as you'll need it for the Python script.**
+
+   ![Circuit Diagram](Pic/port1.png)
+
 4. Upload the `LedController.ino` sketch to the Arduino board.
 
-### Python
+### Python Setup
 
 1. Install the necessary Python libraries:
 
@@ -49,7 +52,10 @@ In this project, Arduino and Python each play crucial roles:
    pip install opencv-python mediapipe pyserial
    ```
 
-2. Ensure code is modified to use correct serial port.
+2. Update the Python script to use the correct serial port, ensuring it matches the one identified during Arduino setup.
+
+   ![Circuit Diagram](Pic/port2.png)
+
 3. Run `FingerCountSender.py`.
 
 ## Join Our Community
