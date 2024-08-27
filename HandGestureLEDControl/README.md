@@ -49,6 +49,9 @@ In this project, Arduino and Python each play crucial roles:
 
 ### Python Setup
 
+> [!IMPORTANT]
+> Before you run the Python code, ensure that you've closed the Serial Monitor in the Arduino IDE. This will prevent any port conflicts that could stop Python from sending data to your Arduino.
+
 1. Install the necessary Python libraries:
 
    ```bash
