@@ -2,7 +2,7 @@
 
  This project is a distance measuring and alerting system using an ultrasonic sensor and a buzzer. The system measures the distance to an object and sounds the buzzer at different frequencies based on the distance: closer objects trigger higher frequency tones, and as the object moves away, the frequency decreases. If no objects are detected within a minimal threshold distance recently, it stops the buzzer.
 
-<a href="https://www.tiktok.com/@sunfounder_official/video/7383559146429254942" title="Arduino Reversing System">
+<a href="https://www.tiktok.com/@sunfounder_official/video/7383559146429254942" title="Arduino Reversing System" target="_blank">
     <img src="Pic/reversing-system-video-cover.jpg" width="300" alt="Arduino Reversing System">
 </a>
 

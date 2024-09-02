@@ -2,7 +2,7 @@
 
 This project implements a basic radar system using an Arduino Uno, a servo motor, an ultrasonic sensor (HC-SR04), an LED, and a buzzer. The system scans the environment by rotating the ultrasonic sensor between 15 and 165 degrees, measuring distances to nearby objects. If an object is detected within 15 cm, an LED lights up, and a buzzer sounds. The angle and distance data are sent to the serial port, allowing for real-time visualization using the Processing IDE.
 
-<a href="https://www.tiktok.com/@sunfounder_official/video/7399495586191297823" title="Arduino Sonar - Sunfounder Tiktok">
+<a href="https://www.tiktok.com/@sunfounder_official/video/7399495586191297823" title="Arduino Sonar - Sunfounder Tiktok" target="_blank">
     <img src="Pic/arduino-sonar-video-cover.jpg" width="300" alt="Arduino Sonar - Sunfounder Tiktok">
 </a>
 

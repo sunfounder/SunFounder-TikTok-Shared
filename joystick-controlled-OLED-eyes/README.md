@@ -2,7 +2,7 @@
 
  This Arduino project animates a pair of interactive eyes on an OLED screen, controlled by a joystick. The eyes track the joystick's movement, simulating the effect of following an object within a defined range. Pressing the joystick button triggers a blinking animation that mimics a natural blink by covering the upper part of the eyes.
 
-<a href="https://www.tiktok.com/@sunfounder_official/video/7409493267617828126" title="Joystick Controlled OLED Eyes">
+<a href="https://www.tiktok.com/@sunfounder_official/video/7409493267617828126" title="Joystick Controlled OLED Eyes" target="_blank">
     <img src="Pic/joystick-controlled-OLED-eyes.jpg" width="300" alt="Joystick Controlled OLED Eyes">
 </a>
 

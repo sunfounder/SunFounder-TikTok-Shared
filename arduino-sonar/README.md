@@ -6,7 +6,7 @@ This project creates a simple sonar system using an Arduino Uno, a servo motor, 
     <img src="Pic/arduino-sonar-video-cover.jpg" width="300" alt="Arduino Sonar - Sunfounder Tiktok">
 </a>
 
-<a href="https://www.tiktok.com/@sunfounder_official/video/7393916564174605598" title="Arduino Sonar - Sunfounder Tiktok">
+<a href="https://www.tiktok.com/@sunfounder_official/video/7393916564174605598" title="Arduino Sonar - Sunfounder Tiktok" target="_blank">
     <img src="Pic/arduino-sonar-video-cover2.jpg" width="300" alt="Arduino Sonar - Sunfounder Tiktok">
 </a>
 
