@@ -31,7 +31,7 @@ Open the `Joystick_Controlled_OLED_Eyes.ino` file in the `Joystick_Controlled_OL
 > [!IMPORTANT]
 > To install the library, use the Arduino Library Manager and search for “**Adafruit SSD1306**” and “**Adafruit GFX**” and install it.
 
-```arduino
+```c++
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
