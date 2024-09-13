@@ -28,15 +28,16 @@ For the original setup tutorial, please refer to: https://github.com/earlephilho
 2. Open up the Arduino IDE and go to **File->Preferences**.In the dialog that pops up, enter the following URL in the **"Additional Boards Manager URLs"** field:
     `https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json`
 
-   <img src="./Pic/01.png" width="250" alt="Preferences">
+   <img src="./Pic/01.png" width="300" alt="Preferences"><br/>
 
-   <img src="./Pic/02.png" width="500" alt="Additional Boards Manager URLs">
+   <img src="./Pic/02.png" width="600" alt="Additional Boards Manager URLs"><br/>
 
-   <img src="./Pic/03.png" width="500" alt="Enter URL">
+   <img src="./Pic/03.png" width="600" alt="Enter URL">
    
 
 3. Go to **Tools->Boards->Board Manager** in the IDE
 4. Type **"pico"** in the search box and install **"Raspberry Pi Pico/RP2040"**
+   
    <img src="./Pic/04.png" width="300" alt="Install Board Library">
 
 ## Arduino Code
