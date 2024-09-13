@@ -13,10 +13,10 @@
 | Component Introduction         | Purchase Link  |
 |--------------------------------|----------------|
 | [Arduino Uno R4(or R3)](https://docs.sunfounder.com/projects/elite-explorer-kit/en/latest/components/component_uno.html#uno-r4-wifi)       | -              |
-| [OLED Display Module (SSD1306)](https://docs.sunfounder.com/projects/elite-explorer-kit/en/latest/components/component_oled.html#cpn-oled)       | -              |
-| [Joystick Module](https://docs.sunfounder.com/projects/umsk/en/latest/01_components_basic/09-component_joystick.html#cpn-joystick)       | [BUY](https://www.sunfounder.com/products/dual-axis-button-joystick-module-ps2-game?ref=tiktok1&utm_source=github)               |
-| [Breadboard](https://docs.sunfounder.com/projects/elite-explorer-kit/en/latest/components/component_buzzer.html#buzzer)                | [BUY](https://www.sunfounder.com/products/20pcs-3-5v-2-terminals-passive-buzzer?ref=tiktok1&utm_source=github)       |
-| [Jumper Wires](https://docs.sunfounder.com/projects/elite-explorer-kit/en/latest/components/component_wires.html#cpn-wires)              | [BUY](https://www.sunfounder.com/products/560pcs-jumper-wire-kit-with-14-lengths?ref=tiktok1&utm_source=github)       |
+| [OLED Display Module (SSD1306)](https://docs.sunfounder.com/projects/umsk/en/latest/01_components_basic/27-component_oled.html#oled-display-module-ssd1306)       | -              |
+| [Joystick Module](https://docs.sunfounder.com/projects/umsk/en/latest/01_components_basic/09-component_joystick.html#joystick-module)       | [BUY](https://www.sunfounder.com/products/dual-axis-button-joystick-module-ps2-game?ref=tiktok1&utm_source=github)               |
+| [Breadboard](https://docs.sunfounder.com/projects/umsk/en/latest/01_components_basic/38-component_breadboard.html#breadboard)                | [BUY](https://www.sunfounder.com/products/20pcs-3-5v-2-terminals-passive-buzzer?ref=tiktok1&utm_source=github)       |
+| [Jumper Wires](https://docs.sunfounder.com/projects/elite-explorer-kit/en/latest/components/component_wires.html#cpn-wires)              | [BUY](https://www.sunfounder.com/products/560pcs-jumper-wire-kit-with-14-lengths?ref=tiktok1&utm_source=github)       ||
 
 ## Circuit Diagram
 
