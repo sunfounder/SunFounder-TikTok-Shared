@@ -18,12 +18,36 @@ Refer to the image below for the circuit setup:
 
 <img src="JoystickControlledOledEyesCircuit.png" width="500" alt="Circuit Diagram">
 
+## Setup Arduino IDE for Raspberry Pi Pico2
+
+This project depends on [earlephilhower/arduino-pico](https://github.com/earlephilhower/arduino-pico). Through this library, we can program the Pico2 using the Arduino IDE.
+
+For the original setup tutorial, please refer to: https://github.com/earlephilhower/arduino-pico?tab=readme-ov-file#installing-via-arduino-boards-manager
+
+1. Install Arduino IDE
+2. Open up the Arduino IDE and go to **File->Preferences**.In the dialog that pops up, enter the following URL in the **"Additional Boards Manager URLs"** field:
+    `https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json`
+
+   <img src="./Pic/01.png" width="250" alt="Preferences">
+
+   <img src="./Pic/02.png" width="500" alt="Additional Boards Manager URLs">
+
+   <img src="./Pic/03.png" width="500" alt="Enter URL">
+   
+
+3. Go to **Tools->Boards->Board Manager** in the IDE
+4. Type **"pico"** in the search box and install **"Raspberry Pi Pico/RP2040"**
+   <img src="./Pic/04.png" width="300" alt="Install Board Library">
+
 ## Arduino Code
 
 Open the `Joystick_Controlled_OLED_Eyes.ino` file in the `Joystick_Controlled_OLED_Eyes` folder.
 
 > [!IMPORTANT]
 > To install the library, use the Arduino Library Manager and search for “**Adafruit SSD1306**” and “**Adafruit GFX**” and install it.
+
+> [!IMPORTANT]
+> To upload your first sketch, you will need to hold the **BOOTSEL** button down while plugging in the Pico to your computer. Select the correct board type and port. Then hit the upload button and the sketch should be transferred and start to run. For more details, visit: https://github.com/earlephilhower/arduino-pico?tab=readme-ov-file#uploading-sketches
 
 ```c++
 #include <Wire.h>
