@@ -18,4 +18,4 @@ We welcome your feedback and suggestions! If you have ideas for improvements or 
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to reach out to us on [TikTok](https://www.tiktok.com/@sunfounder_official) or through our other social media channels. You can find all our social media links and more information on our [Linktree](linktr.ee/sunfounder) page.
+If you have any questions or need further assistance, feel free to reach out to us on [TikTok](https://www.tiktok.com/@sunfounder_official) or through our other social media channels. You can find all our social media links and more information on our [Linktree](https://linktr.ee/sunfounder) page.
