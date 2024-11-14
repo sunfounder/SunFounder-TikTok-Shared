@@ -6,7 +6,6 @@ This project creates a simple lidar system using an Arduino Uno, a servo motor, 
     <img src="Pic/arduino-lidar-video-cover.jpg" width="300" alt="Arduino Lidar Project - Sunfounder Tiktok">
 </a>
 
-
 ## Components
 
 | Component Introduction         | Purchase Link  |
@@ -31,6 +30,41 @@ We designed a connector for this project to easily fix the servo and VL53L0X sen
 https://www.tinkercad.com/things/3LvRsbhjXWM-arduinolidarpart
 
 ## Setup Instructions
+
+
+```mermaid
+flowchart LR
+    %% Define custom styles
+    classDef component fill:#f9f9f9,stroke:#666,stroke-width:2px,rx:8
+
+    %% Hardware components group
+    subgraph Sensors ["Hardware"]
+        direction TB
+        sensor["📡 VL53L0X<br/>ToF Sensor"]:::component
+        servo["⚙️ Servo<br/>Motor"]:::component
+    end
+
+    %% Arduino and Processing
+    controller["Arduino<br/>Controller"]:::component
+    processing["💻 Processing<br/>Radar Display"]:::component
+
+    %% Connections
+    sensor -->|"I2C Data"| controller
+    controller --> |"PWM Control"| servo
+    controller -->|"Serial Data<br/>(Angle,Distance.)"| processing
+
+    %% Style the components
+    style sensor fill:#fff5f5,stroke:#FF6B6B,stroke-width:2px
+    style servo fill:#fff5f5,stroke:#FF6B6B,stroke-width:2px
+    style controller fill:#f0faf9,stroke:#4ECDC4,stroke-width:2px
+    style processing fill:#f0f7fa,stroke:#45B7D1,stroke-width:2px
+    style Sensors fill:#fff,stroke:none
+
+    %% Style the links
+    linkStyle 0 stroke:#FF6B6B,stroke-width:2px;
+    linkStyle 1 stroke:#FF6B6B,stroke-width:2px;
+    linkStyle 2 stroke:#45B7D1,stroke-width:2px;
+```
 
 1. Build the circuit.
 2. Upload `ArduinoLidar.ino` to the Arduino board using [Arduino IDE](https://www.arduino.cc/en/software).
