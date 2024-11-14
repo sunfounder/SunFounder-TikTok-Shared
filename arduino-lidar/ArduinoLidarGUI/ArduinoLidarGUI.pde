@@ -1,4 +1,4 @@
-/*   Arduino Radar Project
+/*   Arduino Lidar Project
  *
  *   Updated version. Fits any screen resolution!
  *   Just change the values in the size() function,
@@ -6,6 +6,9 @@
  *      
  *  by Dejan Nedelkovski, 
  *  www.HowToMechatronics.com
+ *  
+ *  Modified by sunfounder.com 
+ *  2024.11
  *  
  *  Note: Modify the code in line 35 to ensure the correct port number.
  */
