@@ -79,6 +79,9 @@ flowchart LR
 
 ## Arduino Code
 
+> [!IMPORTANT]
+> To install the library, use the Arduino Library Manager and search for “**Adafruit_VL53L0X**” and install it.
+
 The Arduino code is located in the `ArduinoLidar` folder as `ArduinoLidar.ino`. This code controls the servo motor to rotate the ToF distance sensor and measure distances, sending the data to the serial port.
 
 ## Processing GUI

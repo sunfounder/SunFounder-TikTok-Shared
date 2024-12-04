@@ -6,6 +6,7 @@
 
   Board: Arduino Uno R4 (or R3)
   Component: Time of Flight Distance Sensor (VL53L0X)
+  Library: https://github.com/adafruit/Adafruit_VL53L0X  (Adafruit_VL53L0X by Adafruit)
 */
 
 // Variables for the duration and the distance
